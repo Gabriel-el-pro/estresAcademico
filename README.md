@@ -1,4 +1,4 @@
-# sebastian
+# Gabriel Salgado
 
 ## Project setup
 ```
